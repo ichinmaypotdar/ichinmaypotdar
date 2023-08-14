@@ -1,5 +1,6 @@
-### Hi there friends 👋
-## This is Chinmay Potdar and I am a cloud/devOps engineer.
+### Greetings, everyone! 👋
+### "Empowering digital transformations through the potential of cloud technology ✨. Cloud Engineer fueled by the drive to design scalable solutions and enhance infrastructure efficiency."
+### I'm Chinmay Potdar, and I specialize in Cloud/DevOps engineering.
 
 <!--
 **ichinmaypotdar/ichinmaypotdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
