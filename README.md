@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there friends 👋
+## This is Chinmay Potdar and I am a cloud/devOps engineer.
 
 <!--
 **ichinmaypotdar/ichinmaypotdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
